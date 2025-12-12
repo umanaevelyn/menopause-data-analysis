@@ -20,21 +20,6 @@ Provide clinical interpretation using SHAP and feature importance.
 
 Discuss bias, limitations, and clinical applicability.
 
-## 📦 Repository structure
-menopause_symptom_prediction/
- ┣ 📂 data/
- ┃ ┗ menopause.csv                    # raw or preprocessed dataset
- ┣ 📂 notebooks/
- ┃ ┗ 01_EDA_and_Model.ipynb           # EDA + baseline models + SHAP
- ┣ 📂 src/
- ┃ ┣ preprocessing.py                 # functions to clean and feature-engineer
- ┃ ┗ model.py                         # training, evaluation, persistence
- ┣ 📂 outputs/
- ┃ ┣ figures/                         # plots, SHAP images
- ┃ ┗ best_model.pkl                    # saved model
- ┣ README.md                          # this file
- ┗ requirements.txt                    # Python dependencies
-
   
 ##🗂️ Dataset
 
