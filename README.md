@@ -20,8 +20,8 @@ Provide clinical interpretation using SHAP and feature importance.
 
 Discuss bias, limitations, and clinical applicability.
 
-  
-##🗂️ Dataset
+  ## 🗂️ Dataset
+
 
 
 Recommended dataset: Menopause Symptoms Severity Dataset (Kaggle) — or any similar dataset containing demographic, lifestyle, clinical and symptom severity fields.
@@ -38,7 +38,8 @@ Columns (example):
 
 age, bmi, smoking_status, physical_activity, hormone_level_X, comorbidity_Y, symptom_score, symptom_severity (target: mild/moderate/severe or binarized to severe_yes/no).
 
-##🧭 Methodology / Pipeline
+  ## 🧭 Methodology / Pipeline
+
 
 Data loading & cleaning
 
